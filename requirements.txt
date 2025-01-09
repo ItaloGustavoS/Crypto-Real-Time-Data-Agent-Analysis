@@ -1,3 +1,5 @@
 cryptoagent
 python-dotenv
 swarms
+setuptools
+cryptography
