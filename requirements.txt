@@ -3,3 +3,6 @@ python-dotenv
 swarms
 setuptools
 cryptography
+torch
+tensorflow
+flax
